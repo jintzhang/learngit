@@ -5,3 +5,4 @@ Git tracks changes of files.
 I made it.HaHa...
 Creating a new branch is quick and simple.
 branch control tactics.
+test no -ff.001
